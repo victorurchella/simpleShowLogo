@@ -1,0 +1,17 @@
+*/*-------------- LOGO DISPLAY - Made By VITOCA#1337 -------------- */
+
+#logo {
+	display: flex;
+	justify-content: center;
+	margin-left: -190px;
+}
+
+#logo .container{
+	position: absolute;
+	z-index: 2;    
+	width: 190px;									
+	height: 40px;														
+	opacity: 0.8; 
+	background: url('img/logo.png');				
+	padding: none; 									
+}
